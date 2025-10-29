@@ -1,3 +1,4 @@
+```
 """
 Simple Calculator
 -----------------------
@@ -92,3 +93,4 @@ def main():
 # Ensures that main() runs only when the file is executed directly
 if __name__ == "__main__":
     main()
+```
