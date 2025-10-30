@@ -1,4 +1,4 @@
-"""
+
 Simple Calculator
 -----------------------
 This program performs basic arithmetic operations:
@@ -6,10 +6,11 @@ Addition, Subtraction, Multiplication, and Division.
 
 It runs in a loop so the user can perform multiple calculations
 until they choose to exit.
-"""
 
-# No extra imports needed since we're only using basic Python features
 
+No extra imports needed since we're only using basic Python features
+
+```
 def add(a, b):
     """Return the sum of two numbers."""
     return a + b
@@ -92,3 +93,4 @@ def main():
 # Ensures that main() runs only when the file is executed directly
 if __name__ == "__main__":
     main()
+```
