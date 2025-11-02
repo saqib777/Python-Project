@@ -1,5 +1,4 @@
-"""
-Random Password Generator
+#Random Password Generator
 ----------------------------------
 This program generates a strong random password
 based on user preferences for length and character types.
@@ -8,8 +7,8 @@ Concepts covered:
 - Using Python's 'random' and 'string' modules
 - Loops, conditionals, and user input handling
 - Building and joining strings dynamically
-"""
 
+```
 # Importing the required modules
 import random   # For generating random selections
 import string   # For accessing predefined character sets (letters, digits, symbols)
@@ -53,7 +52,7 @@ def generate_password(length, use_uppercase, use_digits, use_symbols):
 
 
 def main():
-    """Main function that interacts with the user and prints the generated password."""
+    Main function that interacts with the user and prints the generated password.
     print("🔐 Welcome to the Random Password Generator!")
     print("You can customize your password strength and length.\n")
 
@@ -84,3 +83,4 @@ def main():
 # Entry point check
 if __name__ == "__main__":
     main()
+```
