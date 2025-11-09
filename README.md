@@ -2,6 +2,9 @@
   
 # Python Projects Collection
 </div>
+
+![wallpaper Python - Notebook](https://github.com/user-attachments/assets/643c2835-0aba-428b-8e5e-ccaf36bcf0b4)
+
 This repository contains a set of small, beginner-friendly Python projects designed to help you practice programming fundamentals like loops, conditionals, file handling, functions, and modules.  
 Each project is complete, well-commented, and easy to understand.
 
