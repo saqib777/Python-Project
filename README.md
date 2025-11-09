@@ -52,7 +52,7 @@ git clone https://github.com/saqib777/Python-Project.git
 cd Python-Project
 python <project_name>.py
 ```
-
+```
 Python-Project/
 │
 ├── Password_generator/
@@ -70,7 +70,7 @@ Python-Project/
 ├── Digital-Clock.md
 ├── calculator.md
 └── README.md
-
+```
 **Author**
 
 Mohammed Saqib - Focused on writing clean and understandable Python code while exploring software testing, automation, and DSA concepts.
