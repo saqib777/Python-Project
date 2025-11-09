@@ -1,5 +1,7 @@
+<div align="center">
+  
 # Python Projects Collection
-
+</div>
 This repository contains a set of small, beginner-friendly Python projects designed to help you practice programming fundamentals like loops, conditionals, file handling, functions, and modules.  
 Each project is complete, well-commented, and easy to understand.
 
