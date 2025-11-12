@@ -13,6 +13,21 @@ Concepts covered:
 - Functions and modular programming
 
 ```
+"""
+Weather Reporter (Simulated)
+-----------------------------------------
+A simple Python project that gives a mock weather report
+for a city entered by the user.
+
+This version doesn’t use any API — it randomly generates temperature,
+humidity, and conditions for demonstration and practice.
+
+Concepts covered:
+- Random number generation
+- Lists and string formatting
+- Functions and modular programming
+"""
+
 import random
 import time
 
@@ -64,7 +79,7 @@ def display_weather(report):
 
 
 def main():
-    Main function to handle user input and display weather info.
+    """Main function to handle user input and display weather info."""
     print("Welcome to the Weather Reporter!")
     print("Type 'exit' anytime to quit.\n")
 
@@ -88,4 +103,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 ```
