@@ -2,7 +2,10 @@
   
 # Python Projects Collection
 
-Uploading From KlickPin CF Developer mode on _ Motivación de estudiar Informática Ingenieria en sistemas.mp4…
+
+
+https://github.com/user-attachments/assets/69415d67-4274-4818-8ed7-b4eba01eeb2a
+
 
 
 </div>
